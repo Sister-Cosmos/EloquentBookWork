@@ -1,0 +1,17 @@
+CHAPTER 1
+Interesting things I found:
+-0:128,0:32,0:16,1:8,1:4,0:2,1:1. (00001101) Is the binary number for 13.
+
+Remember this:
+-Values:
+--Numbers (Use Math with numbers!(% means remainder after dividing!)) (Fractions are seperated with "."(3 and a half= 3.5) Scientific notation can also be used)
+---Special Numbers (INFINITY but also NEGATIVE INFINITY)
+--Strings (Its THE FUNNY "" words) ("words\n words" the "\n" means NewLine) ("\" can be written in strings by putting 2 of them together like: "words \\ words" = "Words\Words") (Strings can also be used like numbers, Being able to be added and subtracted!)
+--Unary Operators (Unary operators use one value whine Binary use two.) ("typeof" outputs the type of value in front of it.)
+--Booleans (JS uses True/False as its's boolean type) ("<" Less than, ">" Greater than, "<=" Less than or equal to, ">=" Greater than or equal to, "==" equals to, "=!" Does not equal) 
+---Logical Operators: (still produce true or false) ("&&=and" Both values must be true, "|| = Or" Only one value must be true) 
+--Empty values ("Null" or "Undefined" work, according to Author, They are mostly interchangeable due to JS's Writing.)
+
+CHAPTER 2
+Interesting Things I found:
+Remember This:
